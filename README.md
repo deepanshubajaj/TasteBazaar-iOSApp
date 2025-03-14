@@ -120,12 +120,8 @@ Here’s how the app looks when running in **English**:
 | ![Cart Filled](ProjectOutputs/Snapshots/AppInEnglish/cartFilled.jpg) | ![Card Pay](ProjectOutputs/Snapshots/AppInEnglish/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInEnglish/UPIPay.jpg) |
 | ![COD Pay](ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) |
 
-**English UI Video:**
-
-<video width="640" height="360" controls>
-  <source src="ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**English UI Video**:
+[English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
 
 ## Application Snapshot (Running in Hindi)
 
