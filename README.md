@@ -86,7 +86,10 @@ Here is a list of the API endpoints used in the app:
 Below is the launch screen for the app:
 
 **Launch Screen Snapshot**:
-![Launch Screen](ProjectOutputs/Snapshots/Common/splashScreenLook.jpg)
+
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/Common/splashScreenLook.jpg" alt="Launch Screen" />
+</p>
 
 **Launch Screen Video**:
 
@@ -102,19 +105,22 @@ Below is the launch screen for the app:
 Here are additional views of the app:
 
 - **App Look on Mobile**:
-  <div style="text-align: center;">
-    <img src="ProjectOutputs/Snapshots/Common/appLook.jpg" alt="App Look" />
-  </div>
+  
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/Common/appLook.jpg" alt="App Look" />
+</p>
 
 - **Logo Image**:
-  <div style="text-align: center;">
-    <img src="ProjectOutputs/Snapshots/Common/LogoImage.png" alt="Logo" />
-  </div>
+  
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/Common/LogoImage.png" alt="Logo" />
+</p>
 
 - **App Icon**:
-  <div style="text-align: center;">
-    <img src="ProjectOutputs/Snapshots/Common/appIcon.png" alt="App Icon" />
-  </div>
+
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/Common/appIcon.png" alt="App Icon" />
+</p>
 
 ## Application Snapshot (Running in English)
 
@@ -134,11 +140,9 @@ Here’s how the app looks when running in **English**:
 
 **English UI Video**:
 
-<div style="text-align: center;">
-
-  ![English UI Gif](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.gif)
-
-</div>
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.gif" alt="English UI Gif" />
+</p>
 
 
 [English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
@@ -160,11 +164,9 @@ Here’s how the app looks when running in **Hindi**:
 
 **Hindi UI Video**:
 
-<div style="text-align: center;">
-
-  ![Hindi UI Gif](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.gif)
-
-</div>
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.gif" alt="Hindi UI Gif" />
+</p>
 
 
 [Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
@@ -173,11 +175,9 @@ Here’s how the app looks when running in **Hindi**:
 
 Watch the complete working video of the app:
 
-<div style="text-align: center;">
-
-  ![Complete App Gif](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif)
-  
-</div>
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif" alt="Complete App Gif" />
+</p>
 
 
 [Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
