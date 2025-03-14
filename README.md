@@ -89,20 +89,20 @@ Below is the launch screen for the app:
 ![Launch Screen](ProjectOutputs/Snapshots/Common/splashScreenLook.jpg)
 
 **Launch Screen Video**:
-[Launch Screen Video](TasteBazaar-iOSApp/ProjectOutputs/WorkingVideos/Common/appLoading.mov)
+[Launch Screen Video](ProjectOutputs/WorkingVideos/Common/appLoading.mov)
 
 ## Additional Snapshots
 
 Here are additional views of the app:
 
 - **App Look on Mobile**:
-  ![App Look](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/Common/appLook.jpg)
+  ![App Look](ProjectOutputs/Snapshots/Common/appLook.jpg)
 
 - **Logo Image**:
-  ![Logo](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/Common/LogoImage.jpg)
+  ![Logo](ProjectOutputs/Snapshots/Common/LogoImage.jpg)
 
 - **App Icon**:
-  ![App Icon](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/Common/appIcon.jpg)
+  ![App Icon](ProjectOutputs/Snapshots/Common/appIcon.jpg)
 
 ## Application Snapshot (Running in English)
 
@@ -110,18 +110,18 @@ Here’s how the app looks when running in **English**:
 
 **English UI Snapshots**:
 
-| ![Home Page](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/homePage.jpg) | ![Home Page Top Dish 1](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish1.jpg) | ![Home Page Top Dish 2](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish2.jpg) |
+| ![Home Page](ProjectOutputs/Snapshots/AppInEnglish/homePage.jpg) | ![Home Page Top Dish 1](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish1.jpg) | ![Home Page Top Dish 2](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish2.jpg) |
 |------------------------------------------|------------------------------------------|------------------------------------------|
-| ![Home Page Top Dish 3](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish3.jpg) | ![North Indian Cuisine](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/northIndianCuisine.jpg) | ![Chinese Cuisine](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/chineseCuisine.jpg) |
-| ![Filter Look Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/filterLookChinese.jpg) | ![Filter Look NI](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/filterLookNI.jpg) | ![Filter Apply Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/filterApplyChinese.jpg) |
-| ![After Filter Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/afterFilterChinese.jpg) | ![Any Chinese Dish 1](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish1.jpg) | ![Any Chinese Dish 2](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish2.jpg) |
-| ![Any NI Dish 1](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/anyNIDish1.jpg) | ![Any NI Dish 2](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/anyNIDish2.jpg) | ![Cart Empty](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/cartEmpty.jpg) |
-| ![Cart Empty Alert](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/cartEmptyAlert.jpg) | ![Cart Filled](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/cartFilled.jpg) | ![Card Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/cardPay.jpg) |
-| ![UPI Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/UPIPay.jpg) | ![COD Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) |
-| ![After Pay Summary](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) | |
+| ![Home Page Top Dish 3](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish3.jpg) | ![North Indian Cuisine](ProjectOutputs/Snapshots/AppInEnglish/northIndianCuisine.jpg) | ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInEnglish/chineseCuisine.jpg) |
+| ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInEnglish/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInEnglish/filterLookNI.jpg) | ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInEnglish/filterApplyChinese.jpg) |
+| ![After Filter Chinese](ProjectOutputs/Snapshots/AppInEnglish/afterFilterChinese.jpg) | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish1.jpg) | ![Any Chinese Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish2.jpg) |
+| ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish2.jpg) | ![Cart Empty](ProjectOutputs/Snapshots/AppInEnglish/cartEmpty.jpg) |
+| ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInEnglish/cartEmptyAlert.jpg) | ![Cart Filled](ProjectOutputs/Snapshots/AppInEnglish/cartFilled.jpg) | ![Card Pay](ProjectOutputs/Snapshots/AppInEnglish/cardPay.jpg) |
+| ![UPI Pay](ProjectOutputs/Snapshots/AppInEnglish/UPIPay.jpg) | ![COD Pay](ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) |
+| ![After Pay Summary](ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) | |
 
 **English UI Video**:
-[English UI Video](TasteBazaar-iOSApp/ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
+[English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
 
 ## Application Snapshot (Running in Hindi)
 
@@ -129,23 +129,23 @@ Here’s how the app looks when running in **Hindi**:
 
 **Hindi UI Snapshots**:
 
-| ![Home Page](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/homePage.jpg) | ![North Indian Cuisine](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/northIndianCuisine.jpg) | ![Chinese Cuisine](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/chineseCuisine.jpg) |
+| ![Home Page](ProjectOutputs/Snapshots/AppInHindi/homePage.jpg) | ![North Indian Cuisine](ProjectOutputs/Snapshots/AppInHindi/northIndianCuisine.jpg) | ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInHindi/chineseCuisine.jpg) |
 |------------------------------------------|------------------------------------------|------------------------------------------|
-| ![Filter Look Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/filterLookChinese.jpg) | ![Filter Look NI](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/filterLookNI.jpg) | ![Filter Apply Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/filterApplyChinese.jpg) |
-| ![After Filter Chinese](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/afterFilterChinese.jpg) | ![After Filter NI](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/afterFilterNI.jpg) | ![Any Chinese Dish 1](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/anyChineseDish1.jpg) |
-| ![Any Chinese Dish 2](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/anyChineseDish2.jpg) | ![Any NI Dish 1](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/anyNIDish1.jpg) | ![Any NI Dish 2](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/anyNIDish2.jpg) |
-| ![Cart Empty](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/cartEmpty.jpg) | ![Cart Empty Alert](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) | ![Cart Filled](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/cartFilled.jpg) |
-| ![Card Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/cardPay.jpg) | ![UPI Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/UPIPay.jpg) | ![COD Pay](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) |
-| ![Order Confirm](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) | |
+| ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInHindi/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInHindi/filterLookNI.jpg) | ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInHindi/filterApplyChinese.jpg) |
+| ![After Filter Chinese](ProjectOutputs/Snapshots/AppInHindi/afterFilterChinese.jpg) | ![After Filter NI](ProjectOutputs/Snapshots/AppInHindi/afterFilterNI.jpg) | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyChineseDish1.jpg) |
+| ![Any Chinese Dish 2](ProjectOutputs/Snapshots/AppInHindi/anyChineseDish2.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInHindi/anyNIDish2.jpg) |
+| ![Cart Empty](ProjectOutputs/Snapshots/AppInHindi/cartEmpty.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) | ![Cart Filled](ProjectOutputs/Snapshots/AppInHindi/cartFilled.jpg) |
+| ![Card Pay](ProjectOutputs/Snapshots/AppInHindi/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInHindi/UPIPay.jpg) | ![COD Pay](ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) |
+| ![Order Confirm](ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) | |
 
 **Hindi UI Video**:
-[Hindi UI Video](TasteBazaar-iOSApp/ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
+[Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
 
 ## Complete App Working Video
 
 Watch the complete working video of the app:
 
-[Complete App Video](TasteBazaar-iOSApp/ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
+[Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
 
 ## Contributing
 
