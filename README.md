@@ -1,4 +1,8 @@
-# Taste Bazaar iOS App
+<div style="text-align: center;">
+
+  # Taste Bazaar iOS App
+  
+</div>
 
 Taste Bazaar is a restaurant ordering app built entirely using Swift in Xcode, following the MVC architecture. The app does not use Storyboards and is created entirely programmatically to provide a more engaging and user-friendly experience.
 
@@ -89,6 +93,14 @@ Below is the launch screen for the app:
 ![Launch Screen](ProjectOutputs/Snapshots/Common/splashScreenLook.jpg)
 
 **Launch Screen Video**:
+
+<div style="text-align: center;">
+
+  ![Launch Screen Gif](ProjectOutputs/WorkingVideos/Common/appLoading.gif)
+
+</div>
+
+
 [Launch Screen Video](ProjectOutputs/WorkingVideos/Common/appLoading.mov)
 
 ## Additional Snapshots
@@ -127,6 +139,14 @@ Here’s how the app looks when running in **English**:
 | ![COD Pay](ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) |
 
 **English UI Video**:
+
+<div style="text-align: center;">
+
+  ![English UI Gif](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.gif)
+
+</div>
+
+
 [English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
 
 ## Application Snapshot (Running in Hindi)
@@ -145,13 +165,25 @@ Here’s how the app looks when running in **Hindi**:
 | ![COD Pay](ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) |
 
 **Hindi UI Video**:
+
+<div style="text-align: center;">
+
+  ![Hindi UI Gif](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.gif)
+
+</div>
+
+
 [Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
 
 ## Complete App Working Video
 
 Watch the complete working video of the app:
 
-![Complete App Gif](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif)
+<div style="text-align: center;">
+
+  ![Complete App Gif](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif)
+  
+</div>
 
 
 [Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
