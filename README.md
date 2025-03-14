@@ -65,7 +65,7 @@ The Home screen contains the following segments:
     ```
 2. Open the project in Xcode:
     ```bash
-    open TasteBazaar.xcodeproj
+    open Taste Bazaar.xcodeproj
     ```
 3. Run the app on a simulator or physical device.
 
