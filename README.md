@@ -146,6 +146,8 @@ Here’s how the app looks when running in **Hindi**:
 Watch the complete working video of the app:
 
 ![Complete App Gif](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif)
+
+
 [Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
 
 ## Contributing
