@@ -134,9 +134,9 @@ Here’s how the app looks when running in **Hindi**:
 | ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInHindi/chineseCuisine.jpg) | ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInHindi/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInHindi/filterLookNI.jpg) |
 | ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInHindi/filterApplyChinese.jpg) | ![After Filter Chinese](ProjectOutputs/Snapshots/AppInHindi/afterFilterChinese.jpg) | ![After Filter NI](ProjectOutputs/Snapshots/AppInHindi/afterFilterNI.jpg) |
 | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyChineseDish1.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInHindi/anyNIDish2.jpg) |
-| ![Cart Empty](ProjectOutputs/Snapshots/AppInHindi/cartEmpty.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) | ![Cart Filled](ProjectOutputs/Snapshots/AppInHindi/cartFilled.jpg) |
-| ![Card Pay](ProjectOutputs/Snapshots/AppInHindi/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInHindi/UPIPay.jpg) | ![COD Pay](ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) |
-| ![Order Confirm](ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) | |
+| ![Cart Empty](ProjectOutputs/Snapshots/AppInHindi/cartEmpty.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) |
+| ![Cart Filled](ProjectOutputs/Snapshots/AppInHindi/cartFilled.jpg) | ![Card Pay](ProjectOutputs/Snapshots/AppInHindi/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInHindi/UPIPay.jpg) |
+| ![COD Pay](ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) |
 
 **Hindi UI Video**:
 [Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
