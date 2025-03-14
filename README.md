@@ -85,11 +85,7 @@ Here is a list of the API endpoints used in the app:
 
 ## Link to PDF Document for all API's Information:
 
-<p align="center">
-
-  [View the PDF Document](ProjectOutputs/API-RecordDocument/document.pdf)
-  
-</p>
+[View the PDF Document](ProjectOutputs/API-RecordDocument/document.pdf)
 
 
 ## Launch Screen Snapshot and Video
