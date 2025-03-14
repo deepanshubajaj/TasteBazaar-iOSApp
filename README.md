@@ -90,11 +90,9 @@ Below is the launch screen for the app:
 
 **Launch Screen Video**:
 
-<div style="text-align: center;">
-
-  ![Launch Screen Gif](ProjectOutputs/WorkingVideos/Common/appLoading.gif)
-
-</div>
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideos/Common/appLoading.gif" alt="Launch Screen Gif" />
+</p>
 
 
 [Launch Screen Video](ProjectOutputs/WorkingVideos/Common/appLoading.mov)
