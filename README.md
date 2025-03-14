@@ -1,8 +1,9 @@
-<div style="text-align: center;">
+<center>
 
   # Taste Bazaar iOS App
   
-</div>
+</center>
+
 
 Taste Bazaar is a restaurant ordering app built entirely using Swift in Xcode, following the MVC architecture. The app does not use Storyboards and is created entirely programmatically to provide a more engaging and user-friendly experience.
 
