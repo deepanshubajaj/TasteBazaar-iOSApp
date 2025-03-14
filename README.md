@@ -99,10 +99,10 @@ Here are additional views of the app:
   ![App Look](ProjectOutputs/Snapshots/Common/appLook.jpg)
 
 - **Logo Image**:
-  ![Logo](ProjectOutputs/Snapshots/Common/LogoImage.jpg)
+  ![Logo](ProjectOutputs/Snapshots/Common/LogoImage.png)
 
 - **App Icon**:
-  ![App Icon](ProjectOutputs/Snapshots/Common/appIcon.jpg)
+  ![App Icon](ProjectOutputs/Snapshots/Common/appIcon.png)
 
 ## Application Snapshot (Running in English)
 
