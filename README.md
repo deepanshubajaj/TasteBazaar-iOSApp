@@ -80,6 +80,12 @@ Here is a list of the API endpoints used in the app:
 | **Cuisine Categories**  | `https://api.example.com/cuisines`    | Get list of available cuisines    |
 | **Dish List**           | `https://api.example.com/dishes`      | Get dishes for selected cuisine   |
 | **Cart Details**        | `https://api.example.com/cart`        | Fetch cart details and prices     |
+| **Payment Details**     | `https://api.example.com/cart`        | Payment details here              |
+
+**Launch Screen Snapshot**:
+
+[View the PDF Document](ProjectOutputs/API-RecordDocument/document.pdf)
+
 
 ## Launch Screen Snapshot and Video
 
