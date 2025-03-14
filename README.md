@@ -82,7 +82,8 @@ Here is a list of the API endpoints used in the app:
 | **Cart Details**        | `https://api.example.com/cart`        | Fetch cart details and prices     |
 | **Payment Details**     | `https://api.example.com/cart`        | Payment details here              |
 
-**Link to PDF Document for all API's Information**:
+
+## Link to PDF Document for all API's Information:
 
 [View the PDF Document](ProjectOutputs/API-RecordDocument/document.pdf)
 
