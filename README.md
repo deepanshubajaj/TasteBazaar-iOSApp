@@ -96,13 +96,19 @@ Below is the launch screen for the app:
 Here are additional views of the app:
 
 - **App Look on Mobile**:
-  ![App Look](ProjectOutputs/Snapshots/Common/appLook.jpg)
+  <div style="text-align: center;">
+    <img src="ProjectOutputs/Snapshots/Common/appLook.jpg" alt="App Look" />
+  </div>
 
 - **Logo Image**:
-  ![Logo](ProjectOutputs/Snapshots/Common/LogoImage.png)
+  <div style="text-align: center;">
+    <img src="ProjectOutputs/Snapshots/Common/LogoImage.png" alt="Logo" />
+  </div>
 
 - **App Icon**:
-  ![App Icon](ProjectOutputs/Snapshots/Common/appIcon.png)
+  <div style="text-align: center;">
+    <img src="ProjectOutputs/Snapshots/Common/appIcon.png" alt="App Icon" />
+  </div>
 
 ## Application Snapshot (Running in English)
 
