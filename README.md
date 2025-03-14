@@ -114,10 +114,11 @@ Here’s how the app looks when running in **English**:
 |------------------------------------------|------------------------------------------|------------------------------------------|
 | ![Home Page Top Dish 3](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish3.jpg) | ![North Indian Cuisine](ProjectOutputs/Snapshots/AppInEnglish/northIndianCuisine.jpg) | ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInEnglish/chineseCuisine.jpg) |
 | ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInEnglish/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInEnglish/filterLookNI.jpg) | ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInEnglish/filterApplyChinese.jpg) |
-| ![After Filter Chinese](ProjectOutputs/Snapshots/AppInEnglish/afterFilterChinese.jpg) | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish1.jpg) | ![Any Chinese Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish2.jpg) | ![Any Chinese Dish 3](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish3.jpg) | ![Any Chinese Dish 4](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish4.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish2.jpg) | ![Cart Empty](ProjectOutputs/Snapshots/AppInEnglish/cartEmpty.jpg) |
-| ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInEnglish/cartEmptyAlert.jpg) | ![Cart Filled](ProjectOutputs/Snapshots/AppInEnglish/cartFilled.jpg) | ![Card Pay](ProjectOutputs/Snapshots/AppInEnglish/cardPay.jpg) |
-| ![UPI Pay](ProjectOutputs/Snapshots/AppInEnglish/UPIPay.jpg) | ![COD Pay](ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) |
-| ![After Pay Summary](ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) | |
+| ![After Filter Chinese](ProjectOutputs/Snapshots/AppInEnglish/afterFilterChinese.jpg) | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish1.jpg) | ![Any Chinese Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish2.jpg) |
+| ![Any Chinese Dish 3](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish3.jpg) | ![Any Chinese Dish 4](ProjectOutputs/Snapshots/AppInEnglish/anyChineseDish4.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish1.jpg) |
+| ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInEnglish/anyNIDish2.jpg) | ![Cart Empty](ProjectOutputs/Snapshots/AppInEnglish/cartEmpty.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInEnglish/cartEmptyAlert.jpg) |
+| ![Cart Filled](ProjectOutputs/Snapshots/AppInEnglish/cartFilled.jpg) | ![Card Pay](ProjectOutputs/Snapshots/AppInEnglish/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInEnglish/UPIPay.jpg) |
+| ![COD Pay](ProjectOutputs/Snapshots/AppInEnglish/CODPay.jpg) | ![Order Confirm](ProjectOutputs/Snapshots/AppInEnglish/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInEnglish/afterPaySummary.jpg) |
 
 **English UI Video**:
 [English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
@@ -128,10 +129,11 @@ Here’s how the app looks when running in **Hindi**:
 
 **Hindi UI Snapshots**:
 
-| ![Home Page](ProjectOutputs/Snapshots/AppInHindi/homePage.jpg) | ![Home Page Top Dish 1](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish1.jpg) | ![North Indian Cuisine](ProjectOutputs/Snapshots/AppInHindi/northIndianCuisine.jpg) | ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInHindi/chineseCuisine.jpg) |
+| ![Home Page](ProjectOutputs/Snapshots/AppInHindi/homePage.jpg) | ![Home Page Top Dish 1](ProjectOutputs/Snapshots/AppInEnglish/homePageTopDish1.jpg) | ![North Indian Cuisine](ProjectOutputs/Snapshots/AppInHindi/northIndianCuisine.jpg) |
 |------------------------------------------|------------------------------------------|------------------------------------------|
-| ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInHindi/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInHindi/filterLookNI.jpg) | ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInHindi/filterApplyChinese.jpg) |
-| ![After Filter Chinese](ProjectOutputs/Snapshots/AppInHindi/afterFilterChinese.jpg) | ![After Filter NI](ProjectOutputs/Snapshots/AppInHindi/afterFilterNI.jpg) | ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyChineseDish1.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInHindi/anyNIDish2.jpg) |
+| ![Chinese Cuisine](ProjectOutputs/Snapshots/AppInHindi/chineseCuisine.jpg) | ![Filter Look Chinese](ProjectOutputs/Snapshots/AppInHindi/filterLookChinese.jpg) | ![Filter Look NI](ProjectOutputs/Snapshots/AppInHindi/filterLookNI.jpg) |
+| ![Filter Apply Chinese](ProjectOutputs/Snapshots/AppInHindi/filterApplyChinese.jpg) | ![After Filter Chinese](ProjectOutputs/Snapshots/AppInHindi/afterFilterChinese.jpg) | ![After Filter NI](ProjectOutputs/Snapshots/AppInHindi/afterFilterNI.jpg) |
+| ![Any Chinese Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyChineseDish1.jpg) | ![Any NI Dish 1](ProjectOutputs/Snapshots/AppInHindi/anyNIDish1.jpg) | ![Any NI Dish 2](ProjectOutputs/Snapshots/AppInHindi/anyNIDish2.jpg) |
 | ![Cart Empty](ProjectOutputs/Snapshots/AppInHindi/cartEmpty.jpg) | ![Cart Empty Alert](ProjectOutputs/Snapshots/AppInHindi/cartEmptyAlert.jpg) | ![Cart Filled](ProjectOutputs/Snapshots/AppInHindi/cartFilled.jpg) |
 | ![Card Pay](ProjectOutputs/Snapshots/AppInHindi/cardPay.jpg) | ![UPI Pay](ProjectOutputs/Snapshots/AppInHindi/UPIPay.jpg) | ![COD Pay](ProjectOutputs/Snapshots/AppInHindi/CODPay.jpg) |
 | ![Order Confirm](ProjectOutputs/Snapshots/AppInHindi/orderConfirm.jpg) | ![After Pay Summary](ProjectOutputs/Snapshots/AppInHindi/afterPaySummary.jpg) | |
