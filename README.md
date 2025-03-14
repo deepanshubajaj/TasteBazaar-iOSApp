@@ -86,7 +86,7 @@ Here is a list of the API endpoints used in the app:
 Below is the launch screen for the app:
 
 **Launch Screen Snapshot**:
-![Launch Screen](TasteBazaar-iOSApp/ProjectOutputs/Snapshots/Common/splashScreenLook.jpg)
+![Launch Screen](ProjectOutputs/Snapshots/Common/splashScreenLook.jpg)
 
 **Launch Screen Video**:
 [Launch Screen Video](TasteBazaar-iOSApp/ProjectOutputs/WorkingVideos/Common/appLoading.mov)
