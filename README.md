@@ -148,7 +148,7 @@ Here’s how the app looks when running in **English**:
 **English UI Video**:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.gif" alt="English UI Gif" />
+  <img src="ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglishFast.gif" alt="English UI Gif" />
 </p>
 
 
@@ -172,22 +172,22 @@ Here’s how the app looks when running in **Hindi**:
 **Hindi UI Video**:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.gif" alt="Hindi UI Gif" />
+  <img src="ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindiFast.gif" alt="Hindi UI Gif" />
 </p>
 
 
-[Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindi.mov)
+[Hindi UI Video](ProjectOutputs/WorkingVideos/AppInHindi/AppWorkingInHindiFast.mp4)
 
 ## Complete App Working Video
 
 Watch the complete working video of the app:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.gif" alt="Complete App Gif" />
+  <img src="ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorkingFast.gif" alt="Complete App Gif" />
 </p>
 
 
-[Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorking.mov)
+[Complete App Video](ProjectOutputs/WorkingVideos/CompleteAppWorking/FullAppWorkingFast.mp4)
 
 ## Contributing
 
