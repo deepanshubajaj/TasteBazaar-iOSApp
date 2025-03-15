@@ -29,7 +29,7 @@ The Home screen contains the following segments:
 - **Segment 4: Language Selection Button**
   - Enables switching between Hindi and English.
 
-### **Screen 2: Select Cuisine to Order**
+### **Screen 2: Select from Cuisine Menu**
 - Displays the dishes specific to the selected cuisine.
 - Each dish shows:
   - Image and price.
@@ -75,17 +75,17 @@ The Home screen contains the following segments:
 
 Here is a list of the API endpoints used in the app:
 
-| Section                | API URL                              | Description                       |
-|------------------------|--------------------------------------|-----------------------------------|
-| **Cuisine Categories**  | `https://api.example.com/cuisines`    | Get list of available cuisines    |
-| **Dish List**           | `https://api.example.com/dishes`      | Get dishes for selected cuisine   |
-| **Cart Details**        | `https://api.example.com/cart`        | Fetch cart details and prices     |
-| **Payment Details**     | `https://api.example.com/cart`        | Payment details here              |
+| **S.No.** | **Section**              | **API Endpoints**         | **Description**                                                                 |
+|-----------|--------------------------|---------------------------|---------------------------------------------------------------------------------|
+| 1         | **Cuisine & Dish List**   | `get_item_list`           | This API retrieves a list of food items grouped by cuisine categories. It returns details like item names, images, prices, and ratings. |
+| 2         | **Item Info**             | `get_item_by_id`          | This API fetches details of a specific item based on the provided item_id.      |
+| 3         | **Dish Filter**           | `get_item_by_filter`      | This API allows users to filter food items based on cuisine type, price range, and minimum rating. |
+| 4         | **Payment Details**       | `make_payment`            | This API is used to make payment for the ordered food items. The payment details include the total amount, number of items, and individual item details. |
 
 
 ## Link to PDF Document for all API's Information:
 
-[View the PDF Document](ProjectOutputs/API-RecordDocument/document.pdf)
+[View the PDF Document](ProjectOutputs/API-RecordDocument/TasteBazaar-APIs-Protected-Info.pdf)
 
 
 ## Launch Screen Snapshot and Video
