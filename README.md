@@ -152,7 +152,7 @@ Here’s how the app looks when running in **English**:
 </p>
 
 
-[English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglish.mov)
+[English UI Video](ProjectOutputs/WorkingVideos/AppInEnglish/AppWorkingInEnglishFast.mp4)
 
 ## Application Snapshot (Running in Hindi)
 
