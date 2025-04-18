@@ -195,4 +195,4 @@ Watch the complete working video of the app:
 
 ## License
 
-This project is **"All Rights Reserved"**. You may not use, modify, or distribute this code without the explicit permission of the owner.
+This project is **"All Rights Reserved"** licensed under the [LICENSE](./LICENSE). You may not use, modify, or distribute this code without the explicit permission of the owner.
